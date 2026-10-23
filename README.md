@@ -1,3 +1,4 @@
+<img width="2560" height="1440" alt="01-hero-dark" src="https://github.com/user-attachments/assets/8d484d81-1c38-45ba-9c28-c19615ac641f" />
 # eero Desktop (Unofficial) — v1.0
 
 An independent Windows application for managing an eero network, with a native desktop layout, light and dark themes, device artwork, and Amazon or email/phone sign-in.
