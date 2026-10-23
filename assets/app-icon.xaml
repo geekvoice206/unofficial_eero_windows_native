@@ -1,0 +1,29 @@
+<DrawingImage xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+  <DrawingImage.Drawing>
+    <DrawingGroup>
+      <GeometryDrawing Brush="Transparent" Geometry="M0,0 H64 V64 H0 Z"/>
+      <GeometryDrawing Geometry="M17,4 H47 C54.18,4 60,9.82 60,17 V47 C60,54.18 54.18,60 47,60 H17 C9.82,60 4,54.18 4,47 V17 C4,9.82 9.82,4 17,4 Z">
+        <GeometryDrawing.Brush>
+          <LinearGradientBrush StartPoint="0,0" EndPoint="0.8,1">
+            <GradientStop Color="#0876FF" Offset="0"/>
+            <GradientStop Color="#0057FF" Offset="0.52"/>
+            <GradientStop Color="#274CDB" Offset="1"/>
+          </LinearGradientBrush>
+        </GeometryDrawing.Brush>
+      </GeometryDrawing>
+      <GeometryDrawing Brush="#210A225E"><GeometryDrawing.Geometry><EllipseGeometry Center="32,51" RadiusX="18" RadiusY="3"/></GeometryDrawing.Geometry></GeometryDrawing>
+      <GeometryDrawing Geometry="M19,23 C26,16 38,16 45,23">
+        <GeometryDrawing.Pen><Pen Brush="#FFFFFF" Thickness="3" StartLineCap="Round" EndLineCap="Round"/></GeometryDrawing.Pen>
+      </GeometryDrawing>
+      <GeometryDrawing Geometry="M25,28 C29,24.5 35,24.5 39,28">
+        <GeometryDrawing.Pen><Pen Brush="#FFFFFF" Thickness="3" StartLineCap="Round" EndLineCap="Round"/></GeometryDrawing.Pen>
+      </GeometryDrawing>
+      <GeometryDrawing Brush="#E1E5EF" Geometry="M14,39 C14,36 17,34 21,34 H43 C47,34 50,36 50,39 V44 C50,48 46,51 42,51 H22 C18,51 14,48 14,44 Z"/>
+      <GeometryDrawing Brush="#FFFFFF" Geometry="M14,39 C14,34 21,31 32,31 C43,31 50,34 50,39 C50,44 43,47 32,47 C21,47 14,44 14,39 Z"/>
+      <GeometryDrawing Geometry="M28,39.5 H35 C35,35.7 28,35.7 28,39.5 C28,43.3 33.3,44 35,41.5">
+        <GeometryDrawing.Pen><Pen Brush="#9099AA" Thickness="1.1" StartLineCap="Round" EndLineCap="Round" LineJoin="Round"/></GeometryDrawing.Pen>
+      </GeometryDrawing>
+      <GeometryDrawing Brush="#009B78"><GeometryDrawing.Geometry><EllipseGeometry Center="32,48.7" RadiusX="1" RadiusY="0.7"/></GeometryDrawing.Geometry></GeometryDrawing>
+    </DrawingGroup>
+  </DrawingImage.Drawing>
+</DrawingImage>
